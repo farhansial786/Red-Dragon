@@ -29,10 +29,10 @@ global.ownernomer = '+923342424026' //Owner Number <<<
 global.ownername = '•┼┼─☆ʜᴀɴᴅꜱᴏᴍᴇ۔ᴋɪʟʟᴇʀ☆─┼┼•' //Owner Name
 global.botname = ' ☬KILLER༒BOT࿐' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ YOUTUBE ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://youtube.com/channel/UCFmJc7hRxIilx9gD2n5-45A' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Pakistan,India, South India, Kerala' //Country Region
 
 global.packname = '☬KILLER༒BOT࿐' //Bot Pacage Name
 global.author = '•┼┼─☆ʜᴀɴᴅꜱᴏᴍᴇ۔ᴋɪʟʟᴇʀ☆─┼┼•' //Author Name
@@ -40,10 +40,10 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_Fαɾԋαɳ Sιαʅ.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://youtube.com/channel/UCFmJc7hRxIilx9gD2n5-45A' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
