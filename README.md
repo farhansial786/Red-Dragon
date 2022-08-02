@@ -35,8 +35,6 @@ LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed
  
 ## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
-## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
-
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
@@ -49,7 +47,7 @@ LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed
 
 </details>
 
-> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
+> [SUPPORT GROUP](https://chat.whatsapp.com/Cx8zeV6RiSS9v2OTMZIgYh)
 
 <b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
 
@@ -73,7 +71,7 @@ LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+<a href="https://wa.me/923342424026"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
 </p>
 
 </details>
