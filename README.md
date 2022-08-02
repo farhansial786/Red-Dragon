@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/CwffZ61/20220605-104552.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.com/MXR0aZZ.jpeg" alt="nz" width="350"/>
 </p>
 
 ## ☬𝗞𝗜𝗟𝗟𝗘𝗥༒𝗕𝗢𝗧࿐   Version 7.0
