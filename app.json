@@ -1,8 +1,8 @@
 {
-  "name": "RED DRAGON BOT",
-  "description": "☬𝗥𝗘𝗗༒𝗗𝗥𝗔𝗚𝗢𝗡-𝗕𝗢𝗧࿐ | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
-  "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/CwffZ61/20220605-104552.jpg",
+  "name": "KILLER BOT",
+  "description": "☬KILLER༒BOT | By: FARHAN SIALᵀᴹ | 𝐌𝐑: ☬HandSome༒Killer",
+  "repository": "https://github.com/somehand274",
+  "logo": "https://i.ibb.com/MXR0aZZ.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
