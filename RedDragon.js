@@ -1,4 +1,4 @@
-// K.Prabhasha
+// Farhan Sial
 // ᴘᴏᴡᴇʀᴇᴅ ʙʏ ◉ KILLER-ʙᴏᴛ
 // last update 2022-07-17 (v 7.0)
 
